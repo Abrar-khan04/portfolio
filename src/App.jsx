@@ -628,7 +628,7 @@ function App() {
                   <a href="https://github.com/Abrar-khan04" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="GitHub">
                     <span>GitHub</span>
                   </a>
-                  <a href="https://linkedin.com/in/mohammedabrar04" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="LinkedIn">
+                  <a href="https://www.linkedin.com/in/abrar-khan-a21010394" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="LinkedIn">
                     <span>LinkedIn</span>
                   </a>
                   <a href="mailto:mohammedabrar7416@gmail.com" className="social-link" aria-label="Email">
@@ -700,7 +700,7 @@ function App() {
         <div className="sidebar-footer">
           <div className="social-links">
             <a href="https://github.com/Abrar-khan04" target="_blank" rel="noopener noreferrer" aria-label="GitHub">GH</a>
-            <a href="https://www.linkedin.com/in/mohammed-abrar-3037a7272" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">in</a>
+            <a href="https://www.linkedin.com/in/abrar-khan-a21010394" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">in</a>
             <a href="mailto:mohammedabrar7416@gmail.com" aria-label="Email">@</a>
           </div>
         </div>

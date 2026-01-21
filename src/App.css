@@ -2435,7 +2435,11 @@ a.contact-card-value:hover {
 }
 
 .social-link {
-  padding: 12px 25px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px;
+  padding: 14px 30px;
   background: rgba(74, 157, 148, 0.1);
   border: 1px solid var(--border-teal);
   border-radius: 8px;
