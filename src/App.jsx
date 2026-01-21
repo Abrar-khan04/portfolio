@@ -242,8 +242,8 @@ function App() {
                     <span>Gaming</span>
                   </div>
                   <div className="hobby-item">
-                    <div className="hobby-icon">💻</div>
-                    <span>Coding</span>
+                    <div className="hobby-icon">🎬</div>
+                    <span>Movies</span>
                   </div>
                   <div className="hobby-item">
                     <div className="hobby-icon">🎵</div>
