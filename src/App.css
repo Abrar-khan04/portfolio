@@ -388,7 +388,7 @@
 .title-section {
   position: relative;
   z-index: 2;
-  margin-left: -50px;
+  margin-left: -200px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -896,9 +896,9 @@
    =============================== */
 .about-section {
   position: relative;
-  min-height: 100vh;
+  min-height: auto;
   background-color: #1a1a1a;
-  padding: 100px 80px;
+  padding: 80px 80px 60px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1347,9 +1347,9 @@ section {
    =============================== */
 .projects-section {
   position: relative;
-  min-height: 100vh;
+  min-height: auto;
   background-color: #0a0a0a;
-  padding: 100px 80px;
+  padding: 60px 80px;
 }
 
 .projects-container {
@@ -1597,9 +1597,9 @@ section {
    =============================== */
 .skills-section {
   position: relative;
-  min-height: 100vh;
+  min-height: auto;
   background-color: var(--bg-secondary);
-  padding: 100px 80px;
+  padding: 60px 80px 80px;
   overflow: hidden;
 }
 
@@ -1959,9 +1959,9 @@ section {
    =============================== */
 .case-study-section {
   position: relative;
-  min-height: 100vh;
+  min-height: auto;
   background-color: var(--bg-primary);
-  padding: 100px 80px;
+  padding: 60px 80px 80px;
   overflow: hidden;
 }
 
@@ -2320,9 +2320,9 @@ section {
    =============================== */
 .contact-section {
   position: relative;
-  min-height: 100vh;
+  min-height: auto;
   background-color: var(--bg-secondary);
-  padding: 100px 80px;
+  padding: 60px 80px 80px;
   overflow: hidden;
 }
 

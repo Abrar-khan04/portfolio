@@ -144,12 +144,7 @@ function App() {
             <p className="about-description">
               I am a Full-Stack Web Developer with a strong focus on building scalable, responsive, and user-centric web applications. I work across the entire development lifecycle, from designing intuitive user interfaces to implementing secure and efficient backend systems.
             </p>
-            <p className="about-description">
-              My technical expertise includes React for frontend development and FastAPI and Node.js for backend services. I prioritize clean architecture, performance, and responsive design to ensure applications function seamlessly across devices.
-            </p>
-            <p className="about-description">
-              I am continuously improving my skills by working on real-world projects and staying up to date with modern frameworks, tools, and best practices. I enjoy solving complex problems and turning ideas into reliable, production-ready solutions.
-            </p>
+
 
             {/* Download CV Button */}
             <a href="/Mohammed_Abrar_Full_Stack.pdf" download className="download-cv-btn reveal stagger-2">Download CV</a>
