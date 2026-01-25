@@ -145,7 +145,6 @@ function App() {
               I am a Full-Stack Web Developer with a strong focus on building scalable, responsive, and user-centric web applications. I work across the entire development lifecycle, from designing intuitive user interfaces to implementing secure and efficient backend systems.
             </p>
 
-
             {/* Download CV Button */}
             <a href="/Mohammed_Abrar_Full_Stack.pdf" download className="download-cv-btn reveal stagger-2">Download CV</a>
           </div>
